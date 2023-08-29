@@ -1,0 +1,5 @@
+1 => clone project
+2 => composer i
+3 => npm i
+4 => php artisan migrate
+5 => php artisan serve and also run npm run dev
